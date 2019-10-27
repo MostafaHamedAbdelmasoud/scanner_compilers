@@ -1,0 +1,12 @@
+ 
+read identifier ;
+ 
+if number is less than identifier 
+then  identifier := number ;
+ 
+repeat  identifier := identifier is multiplied by identifier ;
+ identifier := identifier minus number  
+until identifier is equal number ;
+ 
+write identifier  
+end 
